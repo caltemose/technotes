@@ -1,0 +1,4 @@
+baseURL = "https://caltemose.github.io/technotes/"
+languageCode = "en-us"
+title = "Tech Notes About Stuff"
+theme = "tale"
